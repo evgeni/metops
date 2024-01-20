@@ -96,3 +96,5 @@ Aptocalyptica
 Iron Maven
 Run to the Heaps
 Killswitch NGINX
+Symphony of Decompilation
+Root Tattoo
