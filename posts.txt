@@ -104,3 +104,5 @@ Link Buildscript
 PoE of the Fail
 Solitairis
 VI Feet Under
+Slacknot
+Nix Enemy
