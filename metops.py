@@ -19,10 +19,10 @@ def toot():
         done_posts = []
     posts = list(set(all_posts) - set(done_posts))
     post = random.choice(posts)
-    with open('done.txt', 'a') as done_file:
-        done_file.write(f'{post}\n')
     mastodon = Mastodon(access_token = 'pytooter_usercred.secret')
     mastodon.toot(post)
+    with open('done.txt', 'a') as done_file:
+        done_file.write(f'{post}\n')
     print(post)
 
 @cli.command
