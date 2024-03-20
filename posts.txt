@@ -131,3 +131,7 @@ Mumford & ROMS
 Explosions in the Cloud
 Cloud War Kids
 Shelly OSSBourne
+Judas Lisp
+White SnakeCase
+Mayhelm
+The Pretty RESTless
