@@ -135,3 +135,9 @@ Judas Lisp
 White SnakeCase
 Mayhelm
 The Pretty RESTless
+GPL Violoncello
+Riders of the GNOME
+Killswitch Emerge
+Bisect and Compile
+Vimtroll
+Jinjas Priest
