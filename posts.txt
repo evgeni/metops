@@ -141,3 +141,5 @@ Killswitch Emerge
 Bisect and Compile
 Vimtroll
 Jinjas Priest
+Annotation Society
+In Strict Compliance
