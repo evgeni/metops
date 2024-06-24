@@ -166,3 +166,5 @@ P!ng
 Burn The Switches
 Switchhunter
 Bashphemy
+Kanban Massacre
+Monsters of Scrum
