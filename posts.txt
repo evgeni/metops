@@ -197,3 +197,4 @@ DIMM0 BROKEN
 Eclectic Search
 Hashfyre
 Running BIND
+DRM Theater
